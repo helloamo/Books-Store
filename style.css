@@ -37,6 +37,7 @@ img {
     transition-duration: 1.5s;
 
 
+
 }
 
 
@@ -59,6 +60,8 @@ img {
     background-color: rgb(21, 182, 182);
 
     bottom: -7px;
+
+    border-radius: 30px;
 }
 
 .book1:hover {
@@ -98,6 +101,7 @@ img {
     background-color: rgb(21, 182, 182);
 
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book3 {
@@ -131,6 +135,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book4 {
@@ -164,6 +169,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book5 {
@@ -197,6 +203,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book6 {
@@ -230,6 +237,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book7 {
@@ -263,6 +271,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book8 {
@@ -296,6 +305,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book9 {
@@ -329,6 +339,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book10 {
@@ -362,6 +373,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book11 {
@@ -395,6 +407,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 .book12 {
@@ -428,6 +441,7 @@ img {
 
     background-color: rgb(21, 182, 182);
     bottom: -7px;
+    border-radius: 30px;
 }
 
 a {
